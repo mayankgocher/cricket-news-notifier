@@ -1,0 +1,197 @@
+[
+  {
+    "question": "How old is Vaibhav Sooryavanshi?",
+    "ground_truth": "15 years old",
+    "type": "factual"
+  },
+  {
+    "question": "What was the impact of Mushfiqur's ton and the fifties from Litton and Joy on the target set for Pakistan?",
+    "ground_truth": "Mushfiqur's ton, along with Litton and Joy's fifties, set Pakistan a target of 437",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Rishabh Pant's team, Lucknow Super Giants, perform in IPL 2026?",
+    "ground_truth": "They crashed to their 7th defeat and also had a 6th successive defeat",
+    "type": "contextual"
+  },
+  {
+    "question": "What impact has Vaibhav Sooryavanshi's performance had on the cricket world, particularly among former cricketers?",
+    "ground_truth": "Vaibhav Sooryavanshi's performance has left everyone in the cricket world in awe, with former cricketers such as Matthew Hayden and Kumar Sangakkara praising him, indicating a significant impact on the cricket community.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Pakistan perform at the end of Day 1 of the 2nd Test against Bangladesh?",
+    "ground_truth": "Pakistan trail by 257 runs",
+    "type": "contextual"
+  },
+  {
+    "question": "Who is the England captain that is out of New Zealand and India T20Is?",
+    "ground_truth": "Nat Sciver-Brunt",
+    "type": "factual"
+  },
+  {
+    "question": "What was the return on investment for Vaibhav Sooryavanshi's performance in the match for RR?",
+    "ground_truth": "Vaibhav Sooryavanshi generated ₹4.75 crore from a match cost of ₹7.86 lakh for RR, yielding a significant return on investment.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Jake Lehmann perform in the County Championship draw with Nottinghamshire?",
+    "ground_truth": "Jake Lehmann's unbeaten 102 helps Hampshire to a County Championship draw with defending champions Nottinghamshire.",
+    "type": "contextual"
+  },
+  {
+    "question": "Why was Rishabh Pant dropped from the ODI squad?",
+    "ground_truth": "Rishabh Pant was dropped from the ODI squad due to a poor Indian Premier League season with the bat and as Lucknow Super Giants skipper.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Twisha Sharma's husband and others perform in their attempts to save her?",
+    "ground_truth": "They performed CPR",
+    "type": "contextual"
+  },
+  {
+    "question": "What significance does India's one-off Test against Afghanistan hold in terms of their Test cricket approach?",
+    "ground_truth": "It represents a shift in their Test cricket approach, following a new red-ball order",
+    "type": "analytical"
+  },
+  {
+    "question": "How significant is the event of the Big Bash T20 League being hosted in Chennai?",
+    "ground_truth": "Chennai's MA Chidambaram Stadium is set to make history by hosting the opening match of the Big Bash T20 League in December.",
+    "type": "contextual"
+  },
+  {
+    "question": "What role did Kohli and Venkatesh play in RCB's victory over the Kings?",
+    "ground_truth": "Kohli and Venkatesh helped RCB beat the Kings.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Rizwan perform in the match?",
+    "ground_truth": "Rizwan scored 75*",
+    "type": "contextual"
+  },
+  {
+    "question": "Which team beat the Rajasthan Royals at the Sawai Mansingh Stadium in Jaipur on Tuesday, May 19?",
+    "ground_truth": "Lucknow Super Giants",
+    "type": "factual"
+  },
+  {
+    "question": "What is the impact of Nat Sciver-Brunt's injury on England's chances in the home T20 World Cup?",
+    "ground_truth": "Nat Sciver-Brunt is a huge fitness concern for England before the home T20 World Cup, indicating her injury may significantly affect England's performance in the tournament.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Harry Brook perform as a bowler against Surrey’s top order?",
+    "ground_truth": "Harry Brook turns bowler and destroys Surrey’s top order, taking 3-11",
+    "type": "contextual"
+  },
+  {
+    "question": "Which team did Rishabh Pant's team lose to, as mentioned in the article?",
+    "ground_truth": "Rajasthan Royals (RR)",
+    "type": "factual"
+  },
+  {
+    "question": "What impact has Vaibhav Sooryavanshi's performance had on the cricket world, particularly among former cricketers?",
+    "ground_truth": "Vaibhav Sooryavanshi's performance has left everyone in the cricket world in awe, with former cricketers such as Matthew Hayden and Kumar Sangakkara praising him, and he has also set two IPL records and received the Orange Cap.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Jan Aushadhi Kendras perform during the chemists' protest?",
+    "ground_truth": "Jan Aushadhi Kendras were to remain open on May 20, ensuring continued medicine access despite protests over online pharmacy regulations.",
+    "type": "contextual"
+  },
+  {
+    "question": "Which team is considered the bogey team for KKR?",
+    "ground_truth": "Mumbai Indians",
+    "type": "factual"
+  },
+  {
+    "question": "What was the outcome of the match between Worcestershire and Lancashire?",
+    "ground_truth": "The match ended in a draw, with Worcestershire's Brett D'Oliveira and Matthew Waite sharing an unbroken stand of 97 to ensure their side drew with Lancashire.",
+    "type": "analytical"
+  },
+  {
+    "question": "How significant is Nat Sciver-Brunt's injury to England's World Cup prospects?",
+    "ground_truth": "Nat Sciver-Brunt is a huge fitness concern for England before the home T20 World Cup",
+    "type": "contextual"
+  },
+  {
+    "question": "What impact did Josh Inglis' explosive innings have on the Rajasthan Royals during the RR vs LSG match in IPL 2026?",
+    "ground_truth": "Josh Inglis' explosive innings put Rajasthan Royals under immense pressure with a rapid half-century, although his departure meant the damage was already done to the Royals.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Mumbai Indians perform in the IPL 2026 playoffs race?",
+    "ground_truth": "Mumbai Indians are all but out of the IPL 2026 playoffs race after suffering their seventh defeat in nine matches",
+    "type": "contextual"
+  },
+  {
+    "question": "What is the name of the left-arm seamer who reflects on the One-Day Cup campaign?",
+    "ground_truth": "Grace Ballinger",
+    "type": "factual"
+  },
+  {
+    "question": "Why does KKR need other results to go in their favour to secure a playoff spot?",
+    "ground_truth": "Rahane's men are still in the race for the playoffs but they will also need other results to go in their favour",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Jasprit Bumrah perform in terms of selection for the ODIs against Afghanistan?",
+    "ground_truth": "Jasprit Bumrah was rested",
+    "type": "contextual"
+  },
+  {
+    "question": "Why did the police fail to submit crucial evidence during the post-mortem in the Twisha Sharma death case?",
+    "ground_truth": "The article does not explicitly state why the police failed to submit crucial evidence, but it mentions that CCTV visuals show her heading to the terrace and her husband and others performing CPR, raising fresh questions about the circumstances surrounding her death.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Jake Lehmann perform in the County Championship draw with Nottinghamshire?",
+    "ground_truth": "Jake Lehmann's unbeaten 102 helps Hampshire to a County Championship draw with defending champions Nottinghamshire.",
+    "type": "contextual"
+  },
+  {
+    "question": "Which Pakistan player was sledged by Bangladesh players?",
+    "ground_truth": "Mohammed Rizwan",
+    "type": "factual"
+  },
+  {
+    "question": "Why did Lea Tahuhu decide to put her impending retirement into the background?",
+    "ground_truth": "The article does not explicitly state why Lea Tahuhu decided to put her impending retirement into the background, but it implies that she is focusing on an all-out attack approach for the time being.",
+    "type": "analytical"
+  },
+  {
+    "question": "Why was Somerset denied the chance to beat Sussex in the County Championship?",
+    "ground_truth": "Somerset was denied the chance to beat Sussex due to rain at Taunton after tea.",
+    "type": "analytical"
+  },
+  {
+    "question": "How significant is the gap between the last edition and the current Lanka Premier League?",
+    "ground_truth": "The Lanka Premier League returns after two years",
+    "type": "contextual"
+  },
+  {
+    "question": "What was the cause of John Maclean's death at the age of 80?",
+    "ground_truth": "a lengthy illness",
+    "type": "analytical"
+  },
+  {
+    "question": "How much did Vaibhav Sooryavanshi generate from a match cost of ₹7.86 lakh for RR?",
+    "ground_truth": "₹4.75 crore",
+    "type": "contextual"
+  },
+  {
+    "question": "Why does Paul Farbrace think it is brilliant that county players are getting England recognition?",
+    "ground_truth": "Because realigning England selection with form in county cricket will highlight developing players.",
+    "type": "analytical"
+  },
+  {
+    "question": "How did Bancroft perform in the low-scoring thriller?",
+    "ground_truth": "Bancroft battles",
+    "type": "contextual"
+  },
+  {
+    "question": "Why are the Mumbai Indians considered to be almost out of the IPL 2026 playoffs race?",
+    "ground_truth": "The Mumbai Indians are considered to be almost out of the IPL 2026 playoffs race because they have suffered their seventh defeat in nine matches.",
+    "type": "analytical"
+  }
+]

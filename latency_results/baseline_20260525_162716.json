@@ -1,0 +1,70 @@
+{
+  "tag": "baseline",
+  "timestamp": "20260525_162716",
+  "runs_per_question": 3,
+  "summary": {
+    "avg_retrieval_ms": 118.0,
+    "avg_llm_ms": 11678.7,
+    "avg_total_ms": 11796.8,
+    "min_total_ms": 1030.9,
+    "max_total_ms": 15822.3
+  },
+  "per_question": [
+    {
+      "question": "Who is Vaibhav Suryavanshi?",
+      "avg_retrieval_ms": 179.7,
+      "avg_llm_ms": 851.2,
+      "avg_total_ms": 1030.9,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "How many wickets did Jasprit Bumrah take in IPL 2026?",
+      "avg_retrieval_ms": 104.3,
+      "avg_llm_ms": 6567.4,
+      "avg_total_ms": 6671.7,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "What happened in the India vs England T20 World Cup match?",
+      "avg_retrieval_ms": 121.7,
+      "avg_llm_ms": 12817.4,
+      "avg_total_ms": 12939.1,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "Which team won the IPL 2026 title?",
+      "avg_retrieval_ms": 123.6,
+      "avg_llm_ms": 13865.8,
+      "avg_total_ms": 13989.4,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "What is Rohit Sharma's ODI record?",
+      "avg_retrieval_ms": 169.8,
+      "avg_llm_ms": 15295.4,
+      "avg_total_ms": 15465.3,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "Who scored the fastest century in IPL history?",
+      "avg_retrieval_ms": 90.1,
+      "avg_llm_ms": 15428.9,
+      "avg_total_ms": 15519.0,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "What was Virat Kohli's performance against KKR?",
+      "avg_retrieval_ms": 52.9,
+      "avg_llm_ms": 12883.5,
+      "avg_total_ms": 12936.4,
+      "docs_retrieved": 5
+    },
+    {
+      "question": "How did Mumbai Indians perform in IPL 2026?",
+      "avg_retrieval_ms": 102.1,
+      "avg_llm_ms": 15720.2,
+      "avg_total_ms": 15822.3,
+      "docs_retrieved": 5
+    }
+  ]
+}

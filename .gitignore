@@ -1,0 +1,62 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Data
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# ChromaDB
+chroma/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large files)
+*.bin
+*.pt
+*.pth
+*.h5
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
+api_keys.txt

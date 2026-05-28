@@ -1,0 +1,291 @@
+{
+  "tag": "baseline",
+  "timestamp": "2026-05-23T21:24:54.742285",
+  "rag_model": "llama-3.3-70b-versatile",
+  "eval_model": "llama-3.3-70b-versatile",
+  "embedding_model": "all-MiniLM-L6-v2",
+  "doc_count": 436,
+  "testset_size": 39,
+  "scores": {
+    "faithfulness": 0.9514,
+    "answer_relevancy": 0.7055,
+    "context_precision": 0.8466,
+    "context_recall": 0.9167,
+    "average": 0.855
+  },
+  "per_question": [
+    {
+      "question": "How old is Vaibhav Sooryavanshi?",
+      "answer": "Vaibhav Sooryavanshi is 15 years old.",
+      "ground_truth": "15 years old",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "What was the impact of Mushfiqur's ton and the fifties from Litton and Joy on the target set for Pakistan?",
+      "answer": "Mushfiqur Rahim's ton, along with fifties from Litton Das and Joy, set Pakistan a challenging 437-run target.",
+      "ground_truth": "Mushfiqur's ton, along with Litton and Joy's fifties, set Pakistan a target of 437",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Rishabh Pant's team, Lucknow Super Giants, perform in IPL 2026?",
+      "answer": "Lucknow Super Giants, led by Rishabh Pant, performed poorly in IPL 2026. They were bottom of the table and suffered several defeats, including a 7-wicket loss to Rajasthan Royals and a 6-wicket loss to Mumbai Indians. Rishabh Pant's team struggled, with Pant himself managing only 147 runs in seven matches at an average of 24.50 and 132.43 strike rate.",
+      "ground_truth": "They crashed to their 7th defeat and also had a 6th successive defeat",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "What impact has Vaibhav Sooryavanshi's performance had on the cricket world, particularly among former cricketers?",
+      "answer": "Vaibhav Sooryavanshi's performance has left the cricket world in awe, particularly among former cricketers. He has received praise from several legends, including Sri Lanka's Kumar Sangakkara, who called him \"much better than I'd ever be.\" Former Australian cricketer Justin Langer was also left in awe of Sooryavanshi's \"breathtaking\" batting. His performance has created history, making him the first uncapped player in IPL to achieve certain milestones.",
+      "ground_truth": "Vaibhav Sooryavanshi's performance has left everyone in the cricket world in awe, with former cricketers such as Matthew Hayden and Kumar Sangakkara praising him, indicating a significant impact on the cricket community.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Pakistan perform at the end of Day 1 of the 2nd Test against Bangladesh?",
+      "answer": "Pakistan skipper Shan Masood won the toss and opted to bowl against Bangladesh on Day 1 of the 2nd Test.",
+      "ground_truth": "Pakistan trail by 257 runs",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Who is the England captain that is out of New Zealand and India T20Is?",
+      "answer": "Nat Sciver-Brunt is the England captain who is out of the New Zealand and India T20Is.",
+      "ground_truth": "Nat Sciver-Brunt",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "What was the return on investment for Vaibhav Sooryavanshi's performance in the match for RR?",
+      "answer": "Vaibhav Sooryavanshi's performance generated ₹4.75 crore from a match cost of ₹7.86 lakh for RR, yielding a return of ₹60.4 crore.",
+      "ground_truth": "Vaibhav Sooryavanshi generated ₹4.75 crore from a match cost of ₹7.86 lakh for RR, yielding a significant return on investment.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Jake Lehmann perform in the County Championship draw with Nottinghamshire?",
+      "answer": "Jake Lehmann scored an unbeaten 102, helping Hampshire to a draw with Nottinghamshire in the County Championship.",
+      "ground_truth": "Jake Lehmann's unbeaten 102 helps Hampshire to a County Championship draw with defending champions Nottinghamshire.",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Why was Rishabh Pant dropped from the ODI squad?",
+      "answer": "Rishabh Pant was dropped from the ODI squad due to a poor Indian Premier League (IPL) season with the bat and as Lucknow Super Giants skipper.",
+      "ground_truth": "Rishabh Pant was dropped from the ODI squad due to a poor Indian Premier League season with the bat and as Lucknow Super Giants skipper.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Twisha Sharma's husband and others perform in their attempts to save her?",
+      "answer": "According to the CCTV footage, after Twisha Sharma walked towards the terrace, her husband and others performed CPR on her.",
+      "ground_truth": "They performed CPR",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "What significance does India's one-off Test against Afghanistan hold in terms of their Test cricket approach?",
+      "answer": "There is no information in the provided context about the significance of India's one-off Test against Afghanistan in terms of their Test cricket approach.",
+      "ground_truth": "It represents a shift in their Test cricket approach, following a new red-ball order",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How significant is the event of the Big Bash T20 League being hosted in Chennai?",
+      "answer": "The event of the Big Bash T20 League being hosted in Chennai is significant as it marks the first time the league will be held in India, making it a historic moment for both Cricket Australia and the Board of Control for Cricket in India (BCCI).",
+      "ground_truth": "Chennai's MA Chidambaram Stadium is set to make history by hosting the opening match of the Big Bash T20 League in December.",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "What role did Kohli and Venkatesh play in RCB's victory over the Kings?",
+      "answer": "Virat Kohli and Venkatesh helped RCB beat the Kings in the IPL. However, the exact roles they played in the victory are not specified in the provided context.",
+      "ground_truth": "Kohli and Venkatesh helped RCB beat the Kings.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Rizwan perform in the match?",
+      "answer": "Mohammad Rizwan made a fighting knock in the Sylhet Test, but the details of his performance are not specified in the given context.",
+      "ground_truth": "Rizwan scored 75*",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Which team beat the Rajasthan Royals at the Sawai Mansingh Stadium in Jaipur on Tuesday, May 19?",
+      "answer": "The Lucknow Super Giants (LSG) beat the Rajasthan Royals (RR) by runs at the Sawai Mansingh Stadium in Jaipur on Tuesday, May 19.",
+      "ground_truth": "Lucknow Super Giants",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "What is the impact of Nat Sciver-Brunt's injury on England's chances in the home T20 World Cup?",
+      "answer": "Nat Sciver-Brunt's injury is a huge fitness concern for England before the home T20 World Cup, potentially impacting their chances as the captain may miss the tournament. England will sweat on her fitness before the T20 Women's World Cup.",
+      "ground_truth": "Nat Sciver-Brunt is a huge fitness concern for England before the home T20 World Cup, indicating her injury may significantly affect England's performance in the tournament.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Harry Brook perform as a bowler against Surrey’s top order?",
+      "answer": "Harry Brook performed well as a bowler against Surrey's top order, taking 3 wickets for 11 runs in Surrey's second innings.",
+      "ground_truth": "Harry Brook turns bowler and destroys Surrey’s top order, taking 3-11",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Which team did Rishabh Pant's team lose to, as mentioned in the article?",
+      "answer": "Rishabh Pant's team, Lucknow Super Giants, lost to Mumbai Indians in IPL 2026. They also lost to Rajasthan Royals in a 7-wicket loss.",
+      "ground_truth": "Rajasthan Royals (RR)",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "What impact has Vaibhav Sooryavanshi's performance had on the cricket world, particularly among former cricketers?",
+      "answer": "Vaibhav Sooryavanshi's performance has left the cricket world in awe, particularly among former cricketers. Sri Lanka legend Kumar Sangakkara praised him, saying he is \"much better than I'd ever be\" at his age. Former cricketer Matthew Hayden also broke his silence, praising Sooryavanshi after Rajasthan Royals' defeat to Gujarat Titans. Justin Langer, the former Australian coach, was left in awe of Sooryavanshi's \"breathtaking\" batting.",
+      "ground_truth": "Vaibhav Sooryavanshi's performance has left everyone in the cricket world in awe, with former cricketers such as Matthew Hayden and Kumar Sangakkara praising him, and he has also set two IPL records and received the Orange Cap.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Jan Aushadhi Kendras perform during the chemists' protest?",
+      "answer": "Jan Aushadhi Kendras remained open during the chemists' protest. Several pharmacy associations across states refused to join the AIOCD strike, ensuring continued medicine access despite protests over online pharmacy regulations.",
+      "ground_truth": "Jan Aushadhi Kendras were to remain open on May 20, ensuring continued medicine access despite protests over online pharmacy regulations.",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Which team is considered the bogey team for KKR?",
+      "answer": "Mumbai Indians are considered the bogey team for KKR.",
+      "ground_truth": "Mumbai Indians",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "What was the outcome of the match between Worcestershire and Lancashire?",
+      "answer": "Worcestershire and Lancashire drew the match. Brett D'Oliveira and Matthew Waite shared an unbroken stand of 97 to ensure the draw.",
+      "ground_truth": "The match ended in a draw, with Worcestershire's Brett D'Oliveira and Matthew Waite sharing an unbroken stand of 97 to ensure their side drew with Lancashire.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How significant is Nat Sciver-Brunt's injury to England's World Cup prospects?",
+      "answer": "Nat Sciver-Brunt's injury is a huge fitness concern for England before the home T20 World Cup, as the captain faces a race against time to regain full fitness. Her potential absence could impact England's World Cup prospects, but the extent of the impact is not specified in the available information.",
+      "ground_truth": "Nat Sciver-Brunt is a huge fitness concern for England before the home T20 World Cup",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "What impact did Josh Inglis' explosive innings have on the Rajasthan Royals during the RR vs LSG match in IPL 2026?",
+      "answer": "Josh Inglis' explosive innings put Rajasthan Royals under immense pressure with a rapid half-century, causing damage to the team.",
+      "ground_truth": "Josh Inglis' explosive innings put Rajasthan Royals under immense pressure with a rapid half-century, although his departure meant the damage was already done to the Royals.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Mumbai Indians perform in the IPL 2026 playoffs race?",
+      "answer": "Mumbai Indians are all but out of the IPL 2026 playoffs race after suffering their seventh defeat in nine matches.",
+      "ground_truth": "Mumbai Indians are all but out of the IPL 2026 playoffs race after suffering their seventh defeat in nine matches",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "What is the name of the left-arm seamer who reflects on the One-Day Cup campaign?",
+      "answer": "The left-arm seamer who reflects on the One-Day Cup campaign is Grace Ballinger, a member of The Blaze.",
+      "ground_truth": "Grace Ballinger",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "Why does KKR need other results to go in their favour to secure a playoff spot?",
+      "answer": "KKR needs other results to go in their favour to secure a playoff spot because they are still in the race for the playoffs, but their position is uncertain, implying they may not have enough points or a strong enough position to qualify directly.",
+      "ground_truth": "Rahane's men are still in the race for the playoffs but they will also need other results to go in their favour",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Jasprit Bumrah perform in terms of selection for the ODIs against Afghanistan?",
+      "answer": "There is no information available in the provided context about Jasprit Bumrah's selection for the ODIs against Afghanistan. However, it is mentioned that Bumrah was rested for the Afghanistan Test.",
+      "ground_truth": "Jasprit Bumrah was rested",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Why did the police fail to submit crucial evidence during the post-mortem in the Twisha Sharma death case?",
+      "answer": "The police failed to submit crucial evidence during the post-mortem in the Twisha Sharma death case, according to the CCTV visuals and reports. However, the specific reason for this failure is not mentioned in the provided context.",
+      "ground_truth": "The article does not explicitly state why the police failed to submit crucial evidence, but it mentions that CCTV visuals show her heading to the terrace and her husband and others performing CPR, raising fresh questions about the circumstances surrounding her death.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Jake Lehmann perform in the County Championship draw with Nottinghamshire?",
+      "answer": "Jake Lehmann made an unbeaten 102, helping Hampshire secure a draw with Nottinghamshire in the County Championship match.",
+      "ground_truth": "Jake Lehmann's unbeaten 102 helps Hampshire to a County Championship draw with defending champions Nottinghamshire.",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Which Pakistan player was sledged by Bangladesh players?",
+      "answer": "Mohammad Rizwan was sledged by Bangladesh players.",
+      "ground_truth": "Mohammed Rizwan",
+      "contexts_used": 5,
+      "type": "factual"
+    },
+    {
+      "question": "Why did Lea Tahuhu decide to put her impending retirement into the background?",
+      "answer": "Lea Tahuhu decided to put her impending retirement into the background because she is now focusing on the ICC Women's T20 World Cup 2026, where she wants to achieve glory before her actual retirement.",
+      "ground_truth": "The article does not explicitly state why Lea Tahuhu decided to put her impending retirement into the background, but it implies that she is focusing on an all-out attack approach for the time being.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "Why was Somerset denied the chance to beat Sussex in the County Championship?",
+      "answer": "Somerset was denied the chance to beat Sussex in the County Championship due to rain at Taunton.",
+      "ground_truth": "Somerset was denied the chance to beat Sussex due to rain at Taunton after tea.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How significant is the gap between the last edition and the current Lanka Premier League?",
+      "answer": "The Lanka Premier League returns after a two-year gap.",
+      "ground_truth": "The Lanka Premier League returns after two years",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "What was the cause of John Maclean's death at the age of 80?",
+      "answer": "John Maclean died at the age of 80 after a lengthy illness.",
+      "ground_truth": "a lengthy illness",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How much did Vaibhav Sooryavanshi generate from a match cost of ₹7.86 lakh for RR?",
+      "answer": "Vaibhav Sooryavanshi generated ₹4.75 crore from a match cost of ₹7.86 lakh for RR.",
+      "ground_truth": "₹4.75 crore",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Why does Paul Farbrace think it is brilliant that county players are getting England recognition?",
+      "answer": "Paul Farbrace thinks it's brilliant that county players are getting England recognition because it will highlight developing talent in county cricket.",
+      "ground_truth": "Because realigning England selection with form in county cricket will highlight developing players.",
+      "contexts_used": 5,
+      "type": "analytical"
+    },
+    {
+      "question": "How did Bancroft perform in the low-scoring thriller?",
+      "answer": "Bancroft battled well in the low-scoring thriller, forming a partnership with Bracey after the sixth wicket fell.",
+      "ground_truth": "Bancroft battles",
+      "contexts_used": 5,
+      "type": "contextual"
+    },
+    {
+      "question": "Why are the Mumbai Indians considered to be almost out of the IPL 2026 playoffs race?",
+      "answer": "Mumbai Indians are considered almost out of the IPL 2026 playoffs race because they have suffered their seventh defeat in nine matches.",
+      "ground_truth": "The Mumbai Indians are considered to be almost out of the IPL 2026 playoffs race because they have suffered their seventh defeat in nine matches.",
+      "contexts_used": 5,
+      "type": "analytical"
+    }
+  ]
+}

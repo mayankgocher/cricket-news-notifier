@@ -1,0 +1,57 @@
+# Backend
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+email-validator
+
+# Pipeline & AI (LangChain ecosystem)
+langchain
+langchain-groq
+langchain-chroma
+langchain-huggingface
+langchain-community
+langgraph
+
+# Sentiment Analysis (kept as-is — no LangChain benefit here)
+transformers
+torch
+scikit-learn
+
+# Data Sources
+praw
+tweepy
+feedparser
+
+# Web Search
+duckduckgo-search
+ddgs
+# Vector DB & Embeddings
+chromadb
+sentence-transformers
+
+# Advanced RAG — Hybrid retrieval + Reranking
+rank-bm25
+
+# Notifiers
+python-telegram-bot
+
+# Scheduler
+apscheduler
+
+# Frontend
+streamlit
+
+# Utilities
+python-dotenv
+requests
+beautifulsoup4
+pytz
+rapidfuzz
+
+ragas==0.4.3
+datasets
